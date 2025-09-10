@@ -33,3 +33,16 @@ Incluye:
    ```bash
    java -version
    javac -version
+   
+   ---
+
+## Resultados esperados
+1. La lista original de estudiantes.
+
+2. La lista ordenada por edad (Bubble Sort).
+
+3. La lista ordenada por semestre (Insertion Sort).
+
+4. Una búsqueda lineal por programId.
+
+5. Una búsqueda binaria por age.
