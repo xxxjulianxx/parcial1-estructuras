@@ -1,6 +1,6 @@
 # Parcial 1 - Estructuras de Datos Julian Andres villa Alos - 396453 - julian.villa01@unicatolica.edu.co
 
-Este proyecto implementa en **Java** una solución para la gestión de estudiantes de una universidad, como parte del Parcial 1 de la materia *Estructuras de Datos*.  
+Este proyecto implementa en **Java** una solución para la gestión de estudiantes de una universidad.  
 
 Incluye:
 - Clase `Student` para representar a los estudiantes.
